@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "Look at the world you see",
+    "slug": "look-at-the-world-you-see",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
